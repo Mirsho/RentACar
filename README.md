@@ -2,7 +2,7 @@
 
 Rent-a-car website proyect in C# using Razor, Entity Framework and LINQ to connect with Azure database.
 
-## Author: Adrián Perera Hernández.
+### Author: Adrián Perera Hernández.
 
 ||-----------------------------------------------------------------------||
 
