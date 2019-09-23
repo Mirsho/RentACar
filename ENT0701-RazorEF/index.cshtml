@@ -1,0 +1,43 @@
+﻿@{
+    Layout = null;
+    var dbalquiler = new ENT0701_RazorEF.ArodpeAzureDB();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width; charset=iso-8859-1" />
+    <title>ENT0701 - Razor y EF</title>
+    <link href="~/css/ENT0701.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="fondo">
+        <!-- Encabezado con los datos del alumno -->
+        <div class="Encabezado">
+            <h1>EJE0701 Adrián Perera Hernández</h1>
+            <a href="~/index.cshtml"><img src="~/images/mirsho-simb-RGB-negativo-1.png" height="100" /></a>
+        </div>
+
+        <!-- Bloque iframe -->
+        <div class="Ejercicio">
+            <iframe name="iframe" width="800" height="550" src="~/paginas/portada.cshtml" frameborder="0" scrolling="no"></iframe>
+        </div>
+
+        <!-- Menú lateral para cambiar entre ejercicios -->
+        <div class="Lateral">
+            <ul>
+                <li><a href="~/paginas/Ejercicio1.cshtml" target="iframe">Ejercicio 1</a></li>
+                <li><a href="~/paginas/Ejercicio2.cshtml" target="iframe">Ejercicio 2</a></li>
+                <li><a href="~/paginas/Ejercicio3.cshtml" target="iframe">Ejercicio 3</a></li>
+                <li><a href="~/Index.cshtml">Principal</a></li>
+            </ul>
+        </div>
+
+        <!-- Pie de página con información del alumno -->
+        <div class="Pie">
+            <p>19/03/2019 - CIFP César Manrique - Adrián Perera Hernández</p>
+        </div>
+    </div>
+</body>
+</html>

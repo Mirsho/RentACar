@@ -1,0 +1,115 @@
+﻿@{
+    Layout = null;
+    var dbalquiler = new ENT0701_RazorEF.ArodpeAzureDB();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width; charset=iso-8859-1" />
+    <title>ENT0701 - Ejercicio 1</title>
+    <link href="~/css/ENT0701.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+    <div class="marcosuperior">
+        @{
+            //LINQ a tablas TipoCoche y Coche para mostrar el tipo coche en lista check.
+            //Usamos try catch ya que, al trabajar con una base de datos en la nube, pueden ocurrir errores ajenos al control del programa.
+            try
+            {
+                var coltipocoche = (from tipo in dbalquiler.ALQ_T_tipoCoche
+                                    join coche in dbalquiler.ALQ_T_Coche on tipo.CodTipo equals coche.codTipo
+                                    where coche.codTipo != null
+                                    select tipo.DescripcionTipo).Distinct();
+
+                //Lista tipo checkbox.
+                <form id="listatipo" method="post" action="">
+                    <p>Selecciones el tipo de vehículo</p>
+                    <ul>
+                        @{
+                            foreach (var eletipo in coltipocoche)
+                            {
+                                <li><input name="tipo" type="checkbox" value="@eletipo" />@eletipo.ToString()</li>
+                            }
+                        }
+                    </ul>
+                    <input type="submit" value="Mostrar" />
+                </form>
+            }
+            catch (Exception ex)
+            {
+                <p>ERROR: @ex.Message</p>
+            }
+        }
+    </div>
+    <br/>
+    <div class="marcoinferior">
+        @{
+            if (IsPost)
+            {
+                var eletipoconsultado = Request["tipo"];    //Ele indica que es uno o varios elementos.
+                if (eletipoconsultado == null)
+                {
+                    <p>No ha seleccionado ninguna categoría. Por favor, vuelva a intentarlo.</p>
+                }
+                else
+                {
+                    if (eletipoconsultado.Contains(',') == true) //Si marcamos más de una opción check, el request nos devuelve un string con los campos separados por comas.
+                    {
+                        string[] tipos = eletipoconsultado.Split(',');
+                        foreach (string tipo in tipos)
+                        {
+                            try
+                            {
+                                var colmodelocoche = from tipocoche in dbalquiler.ALQ_T_tipoCoche   //En el from y en el join declaramos los alias que queremos dar a los objetos generados.
+                                                     join marca in dbalquiler.ALQ_T_Coche on tipocoche.CodTipo equals marca.codTipo
+                                                     where tipocoche.DescripcionTipo == tipo   //Para poder hacer la comparación en el where, apuntamos al campo que es string
+                                                     select marca.DescripcionEstado;
+                                <ul>
+                                    @{
+                                        foreach (var Modelo in colmodelocoche)
+                                        {
+                                            <li>@Modelo</li>
+                                        }
+                                    }
+                                </ul>
+                            }
+                            catch (Exception ex)
+                            {
+                                <p>ERROR: @ex.Message</p>
+                            }
+
+                        }
+                    }
+                    else
+                    {
+                        try
+                        {
+                            var colmodelocoche = from tipocoche in dbalquiler.ALQ_T_tipoCoche   //En el from y en el join declaramos los alias que queremos dar a los objetos generados.
+                                                 join marca in dbalquiler.ALQ_T_Coche on tipocoche.CodTipo equals marca.codTipo
+                                                 where tipocoche.DescripcionTipo == eletipoconsultado   //Para poder hacer la comparación en el where, apuntamos al campo que es string
+                                                 select marca.DescripcionEstado;
+                            <ul>
+                                @{
+                                    foreach (var Modelo in colmodelocoche)
+                                    {
+                                        <li>@Modelo</li>
+                                    }
+                                }
+                            </ul>
+                        }
+                        catch (Exception ex)
+                        {
+                            <p>ERROR: @ex.Message</p>
+                        }
+
+                    }
+                }
+
+            }
+        }
+    </div>
+</body>
+</html>

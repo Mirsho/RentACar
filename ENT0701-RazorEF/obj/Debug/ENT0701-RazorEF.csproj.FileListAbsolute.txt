@@ -1,0 +1,486 @@
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll.config
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.pdb
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe.config
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.rsp
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe.config
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.rsp
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Console.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.rsp
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CopyComplete
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.pdb
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\source\repos\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll.config
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe.config
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.rsp
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe.config
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.rsp
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Console.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.rsp
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CopyComplete
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701 Modificar\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.rsp
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.rsp
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Console.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.rsp
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CopyComplete
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.rsp
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.rsp
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Console.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.rsp
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CopyComplete
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701 EN CURSO 2\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csc.rsp
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\csi.rsp
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Console.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\vbc.rsp
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Helpers.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Mvc.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CopyComplete
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\ENT0701-RazorEF.pdb
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\csc.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\csc.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\csc.rsp
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\csi.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\csi.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\csi.rsp
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.AppContext.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Console.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\vbc.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\vbc.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\vbc.rsp
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\EntityFramework.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.Helpers.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.Mvc.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.WebPages.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\EntityFramework.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.Helpers.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.Mvc.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.WebPages.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.csproj.CopyComplete
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.dll
+C:\Users\Alumno\Desktop\ENT0701-RazorEF-Enseñado\ENT0701-RazorEF\obj\Debug\ENT0701-RazorEF.pdb

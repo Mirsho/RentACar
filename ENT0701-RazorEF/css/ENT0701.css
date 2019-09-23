@@ -1,0 +1,133 @@
+﻿.fondo {
+    background-image: url(../images/FondoOscuro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    width: 1920px;
+    height: 100%;
+    border: solid 4px grey;
+    z-index: 10;
+}
+
+.Encabezado {
+    background-image: url(../images/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1920px;
+    height: 127px;
+    border: solid 4px grey;
+    z-index: 100;
+}
+
+.Encabezado h1 {
+    color: white;
+    font-family: Arial;
+    font-size: 2em;
+    position: absolute;
+    float: left;
+    right: 8em;
+    top: .1em;
+}
+
+.Encabezado a img{
+    margin-left: .8em;
+    margin-top: .8em;
+}
+
+.Ejercicio { 
+    font-family: Arial;
+    padding: 1.5em;
+    color: white;
+    opacity: 1;
+    border: solid 10px grey;
+    z-index: 90;
+}
+
+/*
+.Ejercicio iframe{
+    width: 800px;
+    height: 500px;
+}
+*/
+
+.marcosuperior {
+    font-family: Arial;
+    color: white;
+    width: 800px;
+    background-color: grey;
+    opacity: 1;
+    padding: 1.3em;
+}
+
+.marcoinferior {
+    font-family: Arial;
+    color: white;
+    width: 800px;
+    background-color: grey;
+    opacity: 1;
+    padding: 1.3em;
+}
+
+.filtrocliente {
+    font-family: Arial;
+    color: white;
+    width: 800px;
+    background-color: grey;
+    opacity: 1;
+}
+
+.filtrocliente table{
+    padding: 1.3em;
+}
+
+.filtrocliente p{
+    padding: 1.3em;
+}
+
+.Lateral {
+    font-family: Arial;
+    color: white;
+    background-image: url(../images/lateral.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    float: right;
+    bottom: 24em;
+    margin-right: 15em;
+    padding-top: 5em;
+    width: 200px;
+    height: 300px;
+    font-size: 1.5em;
+    border: solid 4px grey;
+    z-index: 90;
+}
+
+    .Lateral a {
+        font-family: Arial;
+        color: white;
+    }
+
+    .Lateral a:visited {
+        font-family: Arial;
+        color: white;
+    }
+
+    .Lateral a:hover {
+        font-family: Arial;
+        color: red;
+    }
+
+.portada {
+    font-family: Arial;
+    color: white;
+    position: relative;
+    margin: auto;
+    margin-top: 7.5em;
+    width: 1920px;
+}
+
+.Pie {
+    font-family: Arial;
+    font-size: 1.5em;
+    color: white;
+}

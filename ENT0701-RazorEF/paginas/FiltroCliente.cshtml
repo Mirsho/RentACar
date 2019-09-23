@@ -1,0 +1,61 @@
+﻿@{
+    Layout = null;
+    var dbalquiler = new ENT0701_RazorEF.ArodpeAzureDB();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width; charset=iso-8859-1" />
+    <link href="~/css/ENT0701.css" rel="stylesheet" type="text/css" />
+    <title></title>
+</head>
+<body>
+    <div class="filtrocliente">
+        @{
+            if (IsPost)
+            {
+                try
+                {
+                    var DNIelegido = Request["DNI"].ToString();
+                    var colClientes = (from clientes in dbalquiler.ALQ_T_Cliente
+                                           //join alquiler in dbalquiler.ALQ_T_Alquiler on clientes.DNICliente equals alquiler.DNICliente
+                                       where clientes.DNICliente == DNIelegido
+                                       select clientes).Distinct();
+                    <p>Estos son los datos del cliente: </p>
+                    <br/>
+                    <table border="1">
+                        <tr>
+                            <th>DNI</th>
+                            <th>Nombre</th>
+                            <th>Apellidos</th>
+                            <th>Dirección</th>
+                            <th>Fecha Nacimiento</th>
+                            <th>Fecha Carnet</th>
+                        </tr>
+                        @{
+                            foreach (var cliente in colClientes)
+                            {
+                                <tr>
+                                    <td>@cliente.DNICliente.ToString()</td>
+                                    <td>@cliente.Nombre.ToString()</td>
+                                    <td>@cliente.Apellidos.ToString()</td>
+                                    <td>@cliente.DatosCliente.ToString()</td>
+                                    <td>@cliente.FechaNacimiento.ToString()</td>
+                                    <td>@cliente.FechaCarnet.ToString()</td>    <!-- Sería interesante calcular la antigüedad del canet -->
+                                </tr>
+                            }
+                        }
+                    </table>
+                }
+                catch (Exception ex)
+                {
+                    <p>ERROR: @ex.Message</p>
+                }
+                <a href="~/paginas/Ejercicio3.cshtml">Haga click aquí para repetir la consulta</a>
+            }
+        }
+    </div>
+</body>
+</html>

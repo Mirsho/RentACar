@@ -1,0 +1,100 @@
+﻿@{
+    Layout = null;
+    var dbalquiler = new ENT0701_RazorEF.ArodpeAzureDB();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width; charset=iso-8859-1" />
+    <link href="~/css/ENT0701.css" rel="stylesheet" type="text/css" />
+    <title>ENT0701 - Ejercicio 2</title>
+</head>
+<body>
+    @{
+    <div class="marcosuperior">
+        @{ 
+            //Tabla de elección de fecha:
+            var fechaActual = DateTime.Now.ToShortDateString();   //Obtenemos la fecha actual para limitar la tabla.
+        }
+        <form id="listadisponible" method="post" action="">
+            <p>Selecciones una fecha: </p>
+            <input type="date" name="fecha" min=@fechaActual max="22-07-2015" />    <!-- Limitamos las fechas disponibles en el formulario a la fecha actual en adelante -->
+            <input type="submit" value="Mostrar" />
+        </form>
+    </div>
+    <br/>
+    <div class="marcoinferior">
+        @{
+            var fechaSubmit = Request["fecha"].AsDateTime(); //Convierte los datos recibidos en una fecha que se puede trabajar
+            try
+            {
+
+                var cochedisponible = (from coche in dbalquiler.ALQ_T_Coche
+                                       join matricula in dbalquiler.ALQ_T_Alquiler on coche.Matricula equals matricula.Matricula
+                                       join tipo in dbalquiler.ALQ_T_tipoCoche on coche.codTipo equals tipo.CodTipo
+                                       where fechaSubmit > matricula.FechaFinal
+                                       select new { coche.DescripcionEstado, matricula.Matricula, tipo.DescripcionTipo, tipo.PrecioDia }).Distinct();
+
+
+
+
+                if (IsPost)
+                {
+                    int cuenta = 0; //Contador para indicar el número de coches disponibles.
+                                    //Session["indice"] = 0; //Variable de sesion que utilizaremos para las vistas.
+
+                    if (fechaSubmit != "01/01/0001".AsDateTime()) //Si el usuario no introduce ninguna fecha el Request la devuelve como 01/01/0001. Queremos que introduzca alguna de las permitidas en el formulario.
+                    {
+                        <table border="1">
+                            <tr>
+                                <th>Coche</th>
+                                <th>Matrícula</th>
+                                <th>Tipo</th>
+                                <th>Precio dia</th>
+                            </tr>
+                            @{
+                                foreach (var coche in cochedisponible)
+                                {
+                                    <tr>
+                                        <td>@coche.DescripcionEstado</td>
+                                        <td>@coche.Matricula.ToString()</td>
+                                        <td>@coche.DescripcionTipo</td>
+                                        <td>@coche.PrecioDia</td>
+                                    </tr>
+
+                                    cuenta++; //Incrementamos el contador cada vez que encuentramos un coche disponible para alquiler.
+                                }
+                            }
+                        </table>
+
+
+                        if (cuenta >= 1) // Si la cuenta sigue en 0 al terminar es que no hay coches disponibles.
+                        {
+                            <h3>Hay @cuenta  vehículos disponibles para alquilar.</h3>
+                            <a href="~/paginas/Ejercicio2.cshtml">Haga click aquí para repetir la consulta</a>
+                        }
+                        else
+                        {
+                            <p>No hay coches disponibles para alquilar en la fecha elegida.</p>
+                            <a href="~/paginas/Ejercicio2.cshtml">Haga click aquí para repetir la consulta</a>
+                        }
+                    }
+                    else
+                    {
+                        <p>La fecha introducida no es válida. Por favor, vuelva a intentarlo.</p>
+                        <a href="~/paginas/Ejercicio2.cshtml">Haga click aquí para repetir la consulta</a>
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                <p>ERROR: @ex.Message</p>
+            }
+        }
+
+    </div>
+    }
+</body>
+</html>

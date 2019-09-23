@@ -1,0 +1,82 @@
+﻿@{
+    Layout = null;
+    var dbalquiler = new ENT0701_RazorEF.ArodpeAzureDB();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width; charset=iso-8859-1" />
+    <link href="~/css/ENT0701.css" rel="stylesheet" type="text/css" />
+    <title>ENT0701 - Ejercicio 3</title>
+</head>
+<body>
+    @{
+    <div class="marcosuperior">
+        @{
+            try
+            {
+                var consultacoche = (from coche in dbalquiler.ALQ_T_Coche
+                                        join matricula in dbalquiler.ALQ_T_Alquiler on coche.Matricula equals matricula.Matricula
+                                        select coche.DescripcionEstado).Distinct();
+                //Lista desplegable que muestra la lista de coches.
+                <form id="listacoche" method="post" action="">
+                    <label for="coche">Seleccione un vehículo a consultar: </label> <br />
+                    <select id="coche" name="coche">
+                        <option value="Eleccion" selected="selected">Elija un vehículo</option>
+                        @{
+                            foreach (var coche in consultacoche)
+                            {
+                                <option value="@coche" name="eleccion">@coche.ToString()</option>
+                            }
+                        }
+                    </select>
+                    <input type="submit" value="Mostrar" />
+                </form>
+            }
+            catch (Exception ex)
+            {
+                <p>ERROR: @ex.Message</p>
+            }
+        }
+    </div>
+    <br/>
+    <div class="marcoinferior">
+        @{
+            if (IsPost)
+            {
+                try
+                {
+                    var elecocheconsultado = Request["coche"];    //Ele indica que es un elemento, una sola elección.
+                    var colDNI = (from matricula in dbalquiler.ALQ_T_Alquiler
+                                    join coche in dbalquiler.ALQ_T_Coche on matricula.Matricula equals coche.Matricula
+                                    join cliente in dbalquiler.ALQ_T_Cliente on matricula.DNICliente equals cliente.DNICliente
+                                    where coche.DescripcionEstado == elecocheconsultado
+                                    select matricula.DNICliente).Distinct();
+
+                    //Lista que muestra los DNI de los clientes que hayan alquilado el coche seleccionado.
+                    <form id="listaDNI" method="post" action="~/paginas/FiltroCliente.cshtml">
+                        <label for="DNI">Seleccione el DNI del cliente a consultar: </label> <br />
+                        <select id="DNI" name="DNI">
+                            <option value="Eleccion" selected="selected">Seleccione un DNI de cliente</option>
+                            @{
+                                foreach (var DNI in colDNI)
+                                {
+                                    <option value="@DNI" name="eleccion">@DNI.ToString()</option>
+                                }
+                            }
+                        </select>
+                        <input type="submit" value="Mostrar" />
+                    </form>
+                }
+                catch (Exception ex)
+                {
+                    <p>ERROR: @ex.Message</p>
+                }
+            }
+        }
+    </div>
+    }
+</body>
+</html>
