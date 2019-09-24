@@ -6,7 +6,7 @@ Rent-a-car website proyect in C# using Razor, Entity Framework and LINQ to conne
 
 ||-----------------------------------------------------------------------||
 
-This solution works with Azure cloud database open-source proyect "Desarrollo de aplicaciones en la nube".
+This solution works with Azure cloud database open-source proyect ["Desarrollo de aplicaciones en la nube"](https://github.com/aplicnube/ "DAN on GitHub").
 
 |-----------------------------------------------------------------------|
 
@@ -29,7 +29,7 @@ PHP, Java y NET Core. MySQL y SQL Server.
 
 Spanish:
 
-Estas consultas trabajan con la base de datos Azure del proyecto open-source "Desarrollo de aplicaciones en la nube".
+Estas consultas trabajan con la base de datos Azure del proyecto open-source ["Desarrollo de aplicaciones en la nube"](https://github.com/aplicnube/ "DAN on GitHub").
 
 |-----------------------------------------------------------------------|
 
